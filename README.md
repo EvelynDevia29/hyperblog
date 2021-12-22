@@ -1,4 +1,4 @@
-# hyperblog :tw-1f49a: 
+# hyperblog 💗
 Blog para el  [curso profesional de Git y Github ](http://https://platzi.com/clases/1557-git-github "curso profesional de Github")de Platzi.
 
 
@@ -13,4 +13,4 @@ En este curso ví:
 * El verdadero amor por las buenas prácticas
 * Trucos del profesor Freddy Vega de Paltzi por la terminal
 
-:tw-1f481: [**Ir a ver el curso **](http://https://platzi.com/clases/1557-git-github "Ir a ver el curso ")
+ 💁🏽[**Ir a ver el curso **](http://https://platzi.com/clases/1557-git-github "Ir a ver el curso ")
