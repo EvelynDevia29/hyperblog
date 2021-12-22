@@ -12,5 +12,6 @@ En este curso ví:
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos del profesor Freddy Vega de Paltzi por la terminal
+* Creado por el increíble Platzi Team
 
  💁🏽[**Ir a ver el curso **](http://https://platzi.com/clases/1557-git-github "Ir a ver el curso ")
