@@ -13,5 +13,6 @@ En este curso ví:
 * El verdadero amor por las buenas prácticas
 * Trucos del profesor Freddy Vega de Paltzi por la terminal
 * Creado por el increíble Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
 
  💁🏽[**Ir a ver el curso **](http://https://platzi.com/clases/1557-git-github "Ir a ver el curso ")
