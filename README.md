@@ -14,5 +14,5 @@ En este curso ví:
 * Trucos del profesor Freddy Vega de Paltzi por la terminal
 * Creado por el increíble Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
-
+* Disponible para todas las edades
  💁🏽[**Ir a ver el curso **](http://https://platzi.com/clases/1557-git-github "Ir a ver el curso ")
